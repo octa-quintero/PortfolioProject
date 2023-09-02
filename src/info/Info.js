@@ -26,11 +26,11 @@ export const info = {
         },
         {
           emoji: '🥁',
-          text: 'Mi afición es tocar Bateria.'
+          text: 'Tambien tooc Bateria.'
       },
         {
             emoji: "📧",
-            text: "Te dejo mi contacto: octa.quinteroo@gmail.com"
+            text: "Mi contacto octa.quinteroo@gmail.com"
         }
     ],
     socials: [
@@ -85,5 +85,36 @@ export const info = {
             emoji: '🎼'
         }
     ],
-
+    // portfolio: [
+    //     {
+    //         title: "Project 1",
+    //         live: "https://paytonpierce.dev", 
+    //         source: "https://github.com/paytonjewell",
+    //         image: mock1
+    //     },
+    //     {
+    //         title: "Project 2",
+    //         live: "https://paytonpierce.dev",
+    //         source: "https://github.com/paytonjewell",
+    //         image: mock2
+    //     },
+    //     {
+    //         title: "Project 3",
+    //         live: "https://paytonpierce.dev",
+    //         source: "https://github.com/paytonjewell",
+    //         image: mock3
+    //     },
+    //     {
+    //         title: "Project 4",
+    //         live: "https://paytonpierce.dev",
+    //         source: "https://github.com/paytonjewell",
+    //         image: mock4
+    //     },
+    //     {
+    //         title: "Project 5",
+    //         live: "https://paytonpierce.dev",
+    //         source: "https://github.com/paytonjewell",
+    //         image: mock5
+    //     }
+    // ]
 }
