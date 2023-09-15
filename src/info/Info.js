@@ -47,7 +47,7 @@ export const info = {
           className: 'github-icon'
       },
       {
-          link: "www.linkedin.com/in/octavio-quintero",
+          link: "https://linkedin.com/in/octavio-quintero",
           icon: "fa fa-linkedin",
           label: 'linkedin',
           className: 'linkedin-icon'
