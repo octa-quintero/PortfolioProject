@@ -5,7 +5,7 @@ import mock3 from "../img/mock3.png"
 import mock4 from "../img/mock4.png"
 import mock5 from "../img/mock5.png"
 
-export let colors= [ "rgb(57, 4, 91), rgb(135, 47, 251)"];
+export let colors= [ "#cb1e1d, #c1ab4a"];
 
 export const info = {
     firstName: "Octavio",
@@ -26,7 +26,7 @@ export const info = {
         },
         {
           emoji: '🥁',
-          text: 'Tambien tooc Bateria.'
+          text: 'Baterista en tiempos libres.'
       },
         {
             emoji: "📧",
@@ -41,30 +41,24 @@ export const info = {
           className: 'instagram-icon'
       },
       {
-          link: "https://github.com",
+          link: "https://github.com/octa-quintero",
           icon: "fa fa-github",
           label: 'github',
           className: 'github-icon'
       },
       {
-          link: "https://linkedin.com",
+          link: "https://www.linkedin.com/in/octavio-quintero-4a2b20251/",
           icon: "fa fa-linkedin",
           label: 'linkedin',
           className: 'linkedin-icon'
       },
-      {
-        link: "https://linkedin.com",
-        icon: "fa fa-whatsapp",
-        label: 'whatsapp',
-        className: 'whatsapp-icon'
-    },
 
     ],
-    bio: "Hola... Soy un nómada digital y amante de la música. Convertido en programador =)",
+    bio: "Me considero activo, siempre buscando proyectos para seguir creciendo en lo que me gusta! Programar",
     skills:
         {
-            proficientWith: ['javascript', 'react.js','node.js','postgres', 'git', 'github', 'HTML5', 'CSS3','redux'],
-            exposedTo: ['express', 'sequelize', 'ajax']
+            proficientWith: ['JavaScript', 'React.JS', 'SQL','Node.JS', 'React.js', 'GitHub', 'HTML5', 'CSS3','Express','Redux','Postgres', 'Sequelize'],
+            exposedTo: []
         }
     ,
     hobbies: [
@@ -75,10 +69,6 @@ export const info = {
         {
             label: 'Me gusta viajar',
             emoji: '⛺'
-        },
-        {
-            label: 'Tambien ver peliculas',
-            emoji: '🎥'
         },
         {
             label: 'y escuchar Musica todo el dia!!',
