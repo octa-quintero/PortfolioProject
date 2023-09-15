@@ -36,7 +36,7 @@ export const info = {
     socials: [
       {
           link: "https://www.instagram.com/octa.quintero",
-          icon: 'fa fa-instagram',
+          icon: 'fa fa-instagram',  
           label: 'instagram',
           className: 'instagram-icon'
       },
@@ -47,7 +47,7 @@ export const info = {
           className: 'github-icon'
       },
       {
-          link: "https://www.linkedin.com/in/octavio-quintero-4a2b20251/",
+          link: "www.linkedin.com/in/octavio-quintero",
           icon: "fa fa-linkedin",
           label: 'linkedin',
           className: 'linkedin-icon'
