@@ -86,16 +86,17 @@ export const info = {
           live: "", 
           source: "https://github.com/octa-quintero/CountryAPP",
           image: mock2
-        },          {
+        },
+        {
           title: "Pixel Gaming",
           live: "", 
-          source: "https://github.com/paytonjewell",
+          source: "https://github.com/octa-quintero",
           image: mock3
         },  
         {
           title: "Project 4",
           live: "", 
-          source: "https://github.com/octa-quintero/PortfolioProject",
+          source: "https://github.com/octa-quintero",
           image: mock4
         }
     ]
