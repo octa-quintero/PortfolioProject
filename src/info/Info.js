@@ -76,18 +76,18 @@ export const info = {
     ],
     portfolio: [
         {
-            title: "Project 1",
+            title: "Portfolio Porject",
             live: "https://octavioquintero.vercel.app/", 
             source: "https://github.com/octa-quintero/PortfolioProject",
             image: mock1
         },
         {
-          title: "Project 2",
+          title: "CountryAPP",
           live: "https://paytonpierce.dev", 
           source: "https://github.com/octa-quintero/CountryAPP",
           image: mock2
         },          {
-          title: "Project 3",
+          title: "Pixel Gaming",
           live: "https://paytonpierce.dev", 
           source: "https://github.com/paytonjewell",
           image: mock3
