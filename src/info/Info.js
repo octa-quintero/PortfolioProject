@@ -3,7 +3,6 @@ import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
 import mock4 from "../img/mock4.png"
-import mock5 from "../img/mock5.png"
 
 export let colors= [ "#cb1e1d, #c1ab4a"];
 
@@ -54,7 +53,7 @@ export const info = {
       },
 
     ],
-    bio: "Me considero activo, siempre buscando proyectos para seguir creciendo en lo que me gusta! Programar",
+    bio: "Siempre activo, buscando proyectos para seguir creciendo en lo que me gusta! Programar",
     skills:
         {
             proficientWith: ['JavaScript', 'React.JS', 'SQL','Node.JS', 'React.js', 'GitHub', 'HTML5', 'CSS3','Express','Redux','Postgres', 'Sequelize'],
@@ -75,36 +74,29 @@ export const info = {
             emoji: '🎼'
         }
     ],
-    // portfolio: [
-    //     {
-    //         title: "Project 1",
-    //         live: "https://paytonpierce.dev", 
-    //         source: "https://github.com/paytonjewell",
-    //         image: mock1
-    //     },
-    //     {
-    //         title: "Project 2",
-    //         live: "https://paytonpierce.dev",
-    //         source: "https://github.com/paytonjewell",
-    //         image: mock2
-    //     },
-    //     {
-    //         title: "Project 3",
-    //         live: "https://paytonpierce.dev",
-    //         source: "https://github.com/paytonjewell",
-    //         image: mock3
-    //     },
-    //     {
-    //         title: "Project 4",
-    //         live: "https://paytonpierce.dev",
-    //         source: "https://github.com/paytonjewell",
-    //         image: mock4
-    //     },
-    //     {
-    //         title: "Project 5",
-    //         live: "https://paytonpierce.dev",
-    //         source: "https://github.com/paytonjewell",
-    //         image: mock5
-    //     }
-    // ]
+    portfolio: [
+        {
+            title: "Project 1",
+            live: "https://octavioquintero.vercel.app/", 
+            source: "https://github.com/octa-quintero/PortfolioProject",
+            image: mock1
+        },
+        {
+          title: "Project 2",
+          live: "https://paytonpierce.dev", 
+          source: "https://github.com/octa-quintero/CountryAPP",
+          image: mock2
+        },          {
+          title: "Project 3",
+          live: "https://paytonpierce.dev", 
+          source: "https://github.com/paytonjewell",
+          image: mock3
+        },  
+        {
+          title: "Project 4",
+          live: "https://paytonpierce.dev", 
+          source: "https://github.com/paytonjewell",
+          image: mock4
+        }
+    ]
 }
