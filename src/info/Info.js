@@ -76,7 +76,7 @@ export const info = {
     ],
     portfolio: [
         {
-            title: "Portfolio Porject",
+            title: "Portfolio Project",
             live: "https://octavioquintero.vercel.app/", 
             source: "https://github.com/octa-quintero/PortfolioProject",
             image: mock1
