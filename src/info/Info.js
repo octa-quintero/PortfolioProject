@@ -83,19 +83,19 @@ export const info = {
         },
         {
           title: "CountryAPP",
-          live: "https://paytonpierce.dev", 
+          live: "", 
           source: "https://github.com/octa-quintero/CountryAPP",
           image: mock2
         },          {
           title: "Pixel Gaming",
-          live: "https://paytonpierce.dev", 
+          live: "", 
           source: "https://github.com/paytonjewell",
           image: mock3
         },  
         {
           title: "Project 4",
-          live: "https://paytonpierce.dev", 
-          source: "https://github.com/paytonjewell",
+          live: "", 
+          source: "https://github.com/octa-quintero/PortfolioProject",
           image: mock4
         }
     ]
