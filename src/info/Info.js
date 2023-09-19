@@ -2,7 +2,6 @@ import self from "../img/self.png"
 import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
-import mock4 from "../img/mock4.png"
 
 export let colors= [ "#cb1e1d, #c1ab4a"];
 
@@ -77,27 +76,19 @@ export const info = {
     portfolio: [
         {
             title: "Portfolio Project",
-            live: "https://octavioquintero.vercel.app/", 
+            // live: "https://octavioquintero.vercel.app/", 
             source: "https://github.com/octa-quintero/PortfolioProject",
             image: mock1
         },
         {
-          title: "CountryAPP",
-          live: "", 
-          source: "https://github.com/octa-quintero/CountryAPP",
+          title: "PixelGaming",
+          source: "https://github.com/octa-quintero/PixelGaming",
           image: mock2
         },
         {
-          title: "Pixel Gaming",
-          live: "", 
-          source: "https://github.com/octa-quintero",
+          title: "CountryAPP",
+          source: "https://github.com/octa-quintero/CountryAPP",
           image: mock3
-        },  
-        {
-          title: "Project 4",
-          live: "", 
-          source: "https://github.com/octa-quintero",
-          image: mock4
         }
     ]
 }
