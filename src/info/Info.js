@@ -2,13 +2,14 @@ import self from "../img/self.png"
 import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
+import logo from "../img/logo.png"
 
-export let colors= [ "#cb1e1d, #c1ab4a"];
+export let colors= [ "#ff0033, #ff6600"];
 
 export const info = {
     firstName: "Octavio",
     lastName: "Quintero",
-    initials: "Octa",
+    initials: <img src={logo} alt="Logo" width={"100px"} style={{ marginTop: "20px" }} />,
     position: " Full Stack Web Developer",
     selfPortrait: self,
     gradient: `-webkit-linear-gradient(135deg, ${colors})`,
