@@ -18,7 +18,7 @@ export default function Home() {
               <Box>
                 <h1>Hola, me llamo <span style={{background: info.gradient, WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent'}}>{info.firstName}</span><span className={Style.hand}>🤚</span>
                 </h1>
-                <h2>Soy{info.position}.</h2>
+                <h2>{info.position}.</h2>
               <Box  component={'ul'} p={'0.8rem'}>
                     {info.miniBio.map((bio, index) => (
                     <EmojiBullet key={index} emoji={bio.emoji} text={bio.text}/>

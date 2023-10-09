@@ -21,7 +21,7 @@ export const info = {
         },
         {
             emoji: '💻',
-            text: 'Trabajo en proyectos de programación como freelancer.'
+            text: 'Trabajo en proyectos de programación como freelance'
         },
         {
           emoji: '🥁',
