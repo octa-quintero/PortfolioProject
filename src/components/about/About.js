@@ -25,7 +25,7 @@ export default function About() {
             </p>
             <p><span style={{color: info.baseColor}}><span
                 className={Style.green}>(main)</span> $</span> ls</p>
-            <p style={{color: info.baseColor}}>Poseo conocimientos en:</p>
+            <p style={{color: info.baseColor}}>skills:</p>
             <ul className={Style.skills}>
                 {info.skills.proficientWith.map((proficiency, index) => <li key={index}>{proficiency}</li>)}
             </ul>

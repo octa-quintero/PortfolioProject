@@ -4,7 +4,7 @@ import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
 import logo from "../img/logo.png"
 
-export let colors= [ "#ff0033, #ff6600"];
+export let colors= [ "#9700f7", "#4400ff"];
 
 export const info = {
     firstName: "Octavio",
@@ -62,16 +62,12 @@ export const info = {
     ,
     hobbies: [
         {
-            label: 'Baterista en tiempo libre =)',
+            label: 'Baterista en tiempo libre =]',
             emoji: '🥁'
         },
         {
-            label: 'Me gusta viajar',
-            emoji: '⛺'
-        },
-        {
-            label: 'y escuchar Musica todo el dia!!',
-            emoji: '🎼'
+            label: 'Viajar!',
+            emoji: '🌴'
         }
     ],
     portfolio: [
