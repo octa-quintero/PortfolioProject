@@ -10,7 +10,7 @@ export const info = {
     firstName: "Octavio",
     lastName: "Quintero",
     initials: <img src={logo} alt="Logo" width={"100px"} style={{ marginTop: "20px" }} />,
-    position: " Full Stack Web Developer",
+    position: " Full Stack Developer",
     selfPortrait: self,
     gradient: `-webkit-linear-gradient(135deg, ${colors})`,
     baseColor: colors[0],
