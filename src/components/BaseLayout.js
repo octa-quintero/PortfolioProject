@@ -44,7 +44,7 @@ return (
             <Grid item>
               <Box  component={'footer'} display={'flex'} flexDirection={'column'} alignItems={'center'}
                     py={'1.5rem'} sx={{opacity: 0.7}} width={'100%'}>
-                    <p>Creado por Octavio Quintero</p>
+                    <p>Octavio Quintero</p>
                     <p>&copy; 2023</p>
               </Box>
             </Grid>
