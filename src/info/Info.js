@@ -53,7 +53,7 @@ export const info = {
       },
 
     ],
-    bio: "Siempre activo, buscando proyectos para seguir creciendo en lo que me gusta! Programar",
+    bio: "Esa sensación de acostarte y soñar con la solución del código a las 3 de la mañana, no tiene precio. Programar es mucho más que una simple ocupación. No cualquiera puede superar la frustración de que el código no compile por un simple punto y coma o que un proyecto que funcionaba ayer deje de hacerlo mágicamente. Personalmente, me ha ayudado a ser más perseverante, disciplinado y motivado. Ahora si, me voy a programar en HTML(CHISTE)",
     skills:
         {
             proficientWith: ['JavaScript', 'React.JS', 'SQL','Node.JS', 'React.js', 'GitHub', 'HTML5', 'CSS3','Express','Redux','Postgres', 'Sequelize'],
