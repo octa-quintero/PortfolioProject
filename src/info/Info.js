@@ -9,7 +9,7 @@ export let colors= [ "#9700f7", "#4400ff"];
 export const info = {
     firstName: "Octavio",
     lastName: "Quintero",
-    initials: <img src={logo} alt="Logo" width={"100px"} style={{ marginTop: "20px" }} />,
+    initials: <img src={logo} alt="Logo" width={"60px"} style={{ marginTop: "10px" }} />,
     position: " Full Stack Developer",
     selfPortrait: self,
     gradient: `-webkit-linear-gradient(135deg, ${colors})`,
@@ -21,7 +21,7 @@ export const info = {
         },
         {
             emoji: '💻',
-            text: 'Trabajo en proyectos de programación como freelance'
+            text: 'Trabajo en proyectos de programación continuamente'
         },
         {
           emoji: '🥁',
@@ -75,17 +75,20 @@ export const info = {
             title: "Portfolio Project",
             // live: "https://octavioquintero.vercel.app/", 
             source: "https://github.com/octa-quintero/PortfolioProject",
-            image: mock1
+            image: mock1,
+            description: "asasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdd",
         },
         {
           title: "PixelGaming",
           source: "https://github.com/octa-quintero/PixelGaming",
-          image: mock2
+          image: mock2,
+          description: "asasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdd",
         },
         {
           title: "CountryAPP",
           source: "https://github.com/octa-quintero/CountryAPP",
-          image: mock3
+          image: mock3,
+          description: "asasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdd",
         }
     ]
 }

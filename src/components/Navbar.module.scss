@@ -2,6 +2,7 @@
 
 nav {
   transition: $transition;
+  padding: 5px;
 }
 
 .active {
@@ -11,9 +12,10 @@ nav {
 
 li {
   transition: $transition;
+  font-size: 1rem;
 
   &:hover {
-    transform: translateY(-3px);
+    transform: translateY(0px);
     transition: $transition;
   }
 }
