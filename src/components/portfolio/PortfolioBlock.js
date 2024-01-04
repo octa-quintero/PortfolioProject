@@ -14,14 +14,15 @@ function PortfolioBlock(props) {
       justifyContent={'center'} 
       alignItems={'center'} 
       width={'100%'}
-      maxWidth={'500px'}  // Puedes ajustar este valor según lo que necesites
+      maxWidth={'500px'}
     >
       <h1 
         style={{ 
-          fontSize: '1rem',     // Divide el texto en dos columnas
-          columnGap: '20px',  // Espacio entre las columnas
-          width: '100%',      // Asegura que tome todo el ancho disponible
-          overflowWrap: 'break-word'  // Evita que palabras largas rompan el diseño
+          fontSize: '1rem',
+          columnGap: '15px',
+          width: '100%',
+          overflowWrap: 'break-word',
+          fontWeight: '400'
         }}
       >
         {description}
@@ -32,9 +33,20 @@ function PortfolioBlock(props) {
             {/* <Box p={1} border={'1.5px solid black'} borderRadius={'10px'} width={'10rem'}>
               <IconLink link={live} title={'Demo'} icon={'fa fa-safari'}/>
             </Box> */}
-            <Box p={1} border={'1.5px solid black'} borderRadius={'10px'}width={'10rem'}>
-              <IconLink link={source} title={'GitHub'} icon={'fa fa-code'}/>
-            </Box>
+<Box 
+  p={0} 
+  border={'1.8px solid black'} 
+  borderRadius={'8px'}
+  width={'260%'}
+  display="flex"
+  justifyContent="center"
+  alignItems="center"
+>
+  <IconLink link={source} 
+  title={'GitHub'} 
+  icon={'fa fa-github'} 
+  />
+</Box>
         </Box>
       </Box>
 );

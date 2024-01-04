@@ -53,10 +53,10 @@ export const info = {
       },
 
     ],
-    bio: "Esa sensación de acostarte y soñar con la solución del código a las 3 de la mañana, no tiene precio. Programar es mucho más que una simple ocupación. No cualquiera puede superar la frustración de que el código no compile por un simple punto y coma o que un proyecto que funcionaba ayer deje de hacerlo mágicamente. Personalmente, me ha ayudado a ser más perseverante, disciplinado y motivado. Ahora si, me voy a programar en HTML(CHISTE)",
+    bio: "Hola!! Soy Octavio👾, Full Stack Developer. Motivado por las nuevas tecnologias empecé mis estudios aprendiendo lo que me gusta! Al principio empecé estudiando como autodidacta tomando cursos online... Seguí mi formación en la academia de CoderHouse para luego entrar en el bootcamp de SoyHenry. Gracias a las herramientas que adquirí pude desarrollarme y fortalecer mis aptitudes como programador. Tuve la suerte de tener amigos que me impulsaron a estudiar desarrollo web donde pude acercarme a ese vasto espacio de 11001001010. Uno de mis desafíos personales fue generar perseverancia y disciplina por la exigencia del trayecto. Lograr llevar el ritmo me permitió afrontar cada etapa del bootcamp, perfeccionando mis habilidades, terminando la formación y concluyendo. Actualmente, me estoy desarrollando como programador FullStack en proyectos independientes, donde implemento mi capacidad para crear aplicaciones web completas, desde la conceptualización hasta la ejecución. Encontrar soluciones a posibles problemas tanto en el frontend como en el backend me ha permitido comprender el ciclo de vida de una aplicación web, convirtiéndome en un desarrollador versátil.",
     skills:
         {
-            proficientWith: ['JavaScript', 'React.JS', 'SQL','Node.JS', 'React.js', 'GitHub', 'HTML5', 'CSS3','Express','Redux','Postgres', 'Sequelize'],
+            proficientWith: ['JavaScript', 'React.JS', 'SQL','Node.JS', 'React.js', 'GitHub', 'HTML5', 'CSS3', 'SCSS', 'Express','Redux','Postgres', 'Sequelize'],
             exposedTo: []
         }
     ,
@@ -76,19 +76,19 @@ export const info = {
             // live: "https://octavioquintero.vercel.app/", 
             source: "https://github.com/octa-quintero/PortfolioProject",
             image: mock1,
-            description: "asasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdd",
+            description: "Con un enfoque en la simplicidad, este portafolio presenta una interfaz minimalista que permite a los visitantes acceder de manera sencilla a secciones como experiencia, proyectos e información general, garantizando una experiencia intuitiva. En mi aplicación de portafolio, optimicé la organización del proyecto utilizando React.js, JavaScript y SCSS para estilos. Implementé una estructura modular que simplifica el acceso al código y mejora la comprensión, permitiendo una gestión eficiente de componentes, estilos y funcionalidad.",
         },
         {
           title: "PixelGaming",
           source: "https://github.com/octa-quintero/PixelGaming",
           image: mock2,
-          description: "asasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdd",
+          description: "Esta aplicación web se desarrolló utilizando React, JavaScript, Node.js y Express. Utiliza una base de datos PostgreSQL con Sequelize para gestionar datos de usuarios y elementos de la biblioteca. Su interfaz es completamente responsive, lo que permite a los usuarios buscar juegos, crear cuentas y administrar elementos en su biblioteca personal. En conjunto, ofrece una experiencia completa para los amantes de los videojuegos. Proyecto desarrollado pensando en el usuario, con una interfaz intuitiva y amigable que facilita a los amantes de los videojuegos buscar, catalogar y gestionar su colección personal de manera sencilla y efectiva. Incorporé funciones que permiten a los usuarios crear perfiles y tener su propia biblioteca de juegos personalizada, además de compartir reseñas y calificaciones. También implementé un método de pago para elegir entre diferentes membresías y así acceder a diversas características.",
         },
         {
           title: "CountryAPP",
           source: "https://github.com/octa-quintero/CountryAPP",
           image: mock3,
-          description: "asasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdd",
+          description: "CountryAPP es una aplicación diseñada para los amantes de los viajes y la exploración. Su objetivo principal es proporcionar a los usuarios una plataforma donde puedan buscar información sobre países, descubrir actividades turísticas de cada destino y compartir sus propias recomendaciones de actividades. Esta app fue desarrollada aprovechando tecnologías esenciales como React, JavaScript, Node.js y Express. La creatividad desempeñó un papel fundamental en la forma en que utilicé estas tecnologías para brindar a los usuarios una experiencia única y fácil de usar.",
         }
     ]
 }
