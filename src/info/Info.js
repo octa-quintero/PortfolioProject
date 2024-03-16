@@ -17,11 +17,11 @@ export const info = {
     miniBio: [
         {
         emoji: '🌎',
-        text: 'Soy de Argentina'
+        text: 'Soy de Argentina.'
         },
         {
           emoji: '💻',
-          text: 'Desarrollador versátil con ganas de mejorar'
+          text: 'Desarrollador versátil con ganas de mejorar.'
       },
         {
             emoji: '🚀',
