@@ -20,13 +20,13 @@ export const info = {
         text: 'Soy de Argentina.'
         },
         {
-          emoji: '💻',
-          text: 'Desarrollador versátil con ganas de mejorar.'
-      },
-        {
             emoji: '🚀',
-            text: 'Enfocado en el crecimiento profesional y personal.'
+            text: 'Actualmente, sigo aprendiendo para seguir mejorando en lo que me gusta.'
         },
+        {
+          emoji: '💻',
+          text: 'Desarrollador versátil.'
+      },
         {
           emoji: '🥁',
           text: 'Baterista en tiempos libres'
