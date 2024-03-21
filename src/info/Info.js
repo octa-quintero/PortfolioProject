@@ -21,7 +21,7 @@ export const info = {
         },
         {
             emoji: '🚀',
-            text: 'Actualmente, sigo aprendiendo para seguir mejorando en lo que me gusta.'
+            text: 'Actualmente, sigo aprendiendo para seguir mejorando en lo que me gusta..'
         },
         {
           emoji: '💻',
