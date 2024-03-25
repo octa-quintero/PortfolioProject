@@ -21,7 +21,7 @@ export const info = {
         },
         {
             emoji: '🚀',
-            text: 'Actualmente, sigo aprendiendo para seguir mejorando en lo que me gusta.'
+            text: 'Autodidacta con ganas de crecer y adquirir nuevas habilidades'
         },
         {
           emoji: '💻',
@@ -60,7 +60,7 @@ export const info = {
     bio: "Hola!! Soy Octavio👾. Actualmente, me estoy desarrollando como programador FullStack en proyectos independientes, donde implemento mi capacidad para crear aplicaciones web completas, desde la conceptualización hasta la ejecución. Encontrar soluciones a posibles problemas tanto en el frontend como en el backend me ha permitido comprender el ciclo de vida de una aplicación web, convirtiéndome en un desarrollador versátil. Motivado por las nuevas tecnologias empecé mis estudios aprendiendo como autodidacta tomando cursos online, posteriormente segui mi formación en la academia de CoderHouse para luego entrar en el bootcamp de SoyHenry. Gracias a las herramientas que adquirí pude desarrollarme y fortalecer mis aptitudes como programador. Esta experiencia me ha permitido sumergirme por completo en el ciclo de vida de una aplicación, desde la fase inicial de conceptualización hasta la ejecución final. Tuve la suerte de tener amigos que me impulsaron a estudiar desarrollo web donde pude acercarme a ese vasto espacio de 11001001010. Uno de mis desafíos personales fue generar perseverancia y disciplina por la exigencia del trayecto. Lograr llevar el ritmo me permitió afrontar cada etapa perfeccionando mis habilidades. Mi compromiso con la mejora continua se refleja en mi constante exploración de nuevos lenguajes y tecnologías. Este recorrido me motiva a superar constantes desafíos, mejorándome continuamente y avanzando en mi profesionalización en el mundo del desarrollo.",
     skills:
         {
-            proficientWith: ['JavaScript', 'React.JS', 'SQL','Node.JS', 'React.js', 'GitHub', 'HTML5', 'CSS3', 'SCSS', 'Express','Redux','Postgres', 'Sequelize'],
+            proficientWith: ['JavaScript', 'React.JS', 'SQL','Node.JS', 'React.js', 'Docker', 'Docker-Compose', 'GitHub', 'HTML5', 'CSS3', 'SCSS', 'Express','Redux','Postgres', 'Sequelize'],
             exposedTo: []
         }
     ,
