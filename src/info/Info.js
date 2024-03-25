@@ -29,7 +29,7 @@ export const info = {
       },
         {
           emoji: '🥁',
-          text: 'Baterista en tiempos libres.'
+          text: 'Baterista en tiempos libres'
       },
         {
             emoji: "📧",
