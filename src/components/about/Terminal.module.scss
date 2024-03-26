@@ -27,7 +27,14 @@ i {
     animation: changeColors 3s infinite;
     font-weight: bold;
   }
+
+  @media (max-width: 768px) {
+    p, li {
+      font-size: 1rem; /* Tamaño de letra más pequeño para pantallas de celular */
+    }
+  }
 }
+
 
 
 @keyframes changeColors {
