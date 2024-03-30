@@ -70,7 +70,7 @@ export const info = {
             emoji: '🥁'
         },
         {
-            label: 'Viajar!',
+            label: 'Viajar.',
             emoji: '🌴'
         }
     ],
