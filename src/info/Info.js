@@ -38,12 +38,6 @@ export const info = {
     ],
     socials: [
       {
-          link: "https://www.instagram.com/octa.quintero",
-          icon: 'fa fa-instagram',  
-          label: 'instagram',
-          className: 'instagram-icon'
-      },
-      {
           link: "https://github.com/octa-quintero",
           icon: "fa fa-github",
           label: 'github',
