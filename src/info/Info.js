@@ -2,6 +2,7 @@ import self from "../img/self.png"
 import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
 import mock3 from "../img/mock3.png"
+import mock4 from "../img/mock4.png"
 import logo from "../img/logo.png"
 
 export let colors= [ "#9700f7", "#4400ff"];
@@ -82,6 +83,12 @@ export const info = {
           image: mock2,
           description: "Esta aplicación web se desarrolló utilizando React, Java Script,Node.js y Express. Utiliza una base de datos PostgreSQL con Sequelize para gestionar datos de usuarios y elementos de la biblioteca. En conjunto, ofrece una experiencia completa para los amantes de los videojuegos. Proyecto desarrollado pensando en el usuario, con una interfaz intuitiva y amigable que facilita a los amantes de los videojuegos buscar, catalogar y gestionar su colección personal de manera sencilla y efectiva. Incorporé funciones que permiten a los usuarios crear perfiles y tener su propia biblioteca de juegos personalizada, además de compartir reseñas y calificaciones. También implementé un método de pago para elegir entre diferentes membresías y así acceder a diversas características.",
         },
+        {
+          title: "Spa Brillante",
+          source: "https://github.com/octa-quintero/SpaBrillante",
+          image: mock4,
+          description: "La aplicación Spa-Brillante es una plataforma de gestión de turnos diseñada como proyecto de práctica para aplicar. Esta herramienta está diseñada para facilitar el agendamiento y la administración de citas en diferentes contextos. Utiliza tecnologías modernas como React, Redux, Material UI, SCSS y JavaScript para ofrecer una experiencia de usuario intuitiva, responsive y eficiente. Permite a los usuarios reservar, modificar y cancelar turnos de manera sencilla y organizada, adaptándose a las necesidades específicas de spas y salones de belleza.",
+      },
         {
           title: "CountryAPP",
           source: "https://github.com/octa-quintero/CountryAPP",
