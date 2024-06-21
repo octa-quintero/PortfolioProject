@@ -22,7 +22,7 @@ export const info = {
         },
         {
             emoji: '🚀',
-            text: 'Autodidacta con ganas de crecer y adquirir nuevas habilidades.'
+            text: 'Autodidacta con ganas de crecer y adquirir nuevas habilidades'
         },
         {
           emoji: '💻',
