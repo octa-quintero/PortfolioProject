@@ -27,26 +27,40 @@ function PortfolioBlock(props) {
         {description}
       </h1>
     </Box>
-        <Box className={'portfolio'} display={'flex'} flexDirection={'column'} gap={'0.2rem'}
-              alignItems={'center'} fontSize={'1.5rem'} py={'1rem'}>
-            {/* <Box p={1} border={'1.5px solid black'} borderRadius={'10px'} width={'10rem'}>
-              <IconLink link={live} title={'Demo'} icon={'fa fa-safari'}/>
-            </Box> */}
-<Box 
-  p={0} 
-  border={'1.8px solid black'} 
-  borderRadius={'8px'}
-  width={'260%'}
-  display="flex"
-  justifyContent="center"
-  alignItems="center"
->
-  <IconLink link={source} 
-  title={'GitHub'} 
-  icon={'fa fa-github'} 
-  />
+    <Box className={'portfolio'} display={'flex'} flexDirection={'row'} gap={'0.5rem'}
+     alignItems={'center'} fontSize={'1.5rem'} py={'1rem'} width={'100%'}>
+  
+  <Box 
+    p={0} 
+    border={'2px solid gray'} 
+    borderRadius={'8px'}
+    width={'100%'}
+    display="flex"
+    justifyContent="center"
+    alignItems="center"
+  >
+    <IconLink link={source} 
+    title={'GitHub'} 
+    icon={'fa fa-github'} 
+    />
+  </Box>
+
+  {live && (
+    <Box 
+      p={0} 
+      border={'2px solid gray'} 
+      borderRadius={'8px'}
+      width={'100%'}
+      display="flex"
+      justifyContent="center"
+      alignItems="center"
+    >
+      <IconLink link={live} title={'Demo'} icon={'fa fa-safari'}/>
+    </Box>
+  )}
+  
 </Box>
-        </Box>
+
       </Box>
 );
 }
